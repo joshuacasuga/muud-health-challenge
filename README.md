@@ -79,3 +79,6 @@ npx jest
 - UI/UX is simplified with no mockups or design specifications given
 - App simulates basic CRUD behavior
 - Components were written for clarity and testability, rather than optimization or production-readiness
+---
+### Project Demo
+https://youtu.be/jusVFNtkTlE
